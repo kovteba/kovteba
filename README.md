@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/kovteba?ext=activity)
+![Leetcode Stats](https://leetcard.jacoblin.cool/kovteba)
 
 <!--
-![Leetcode Stats](https://leetcard.jacoblin.cool/kovteba)
+
 **kovteba/kovteba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
