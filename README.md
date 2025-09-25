@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Developer Reminders](https://kovteba.github.io/developer-reminders/)
+
 ![Leetcode Stats](https://leetcard.jacoblin.cool/kovteba)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kovteba&theme=github_dark)
