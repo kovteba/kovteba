@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Developer Reminders](https://kovteba.github.io/developer-reminders/)
+[Developer Reminders](https://kovteba.github.io/developer-reminders/)
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/kovteba)
 
