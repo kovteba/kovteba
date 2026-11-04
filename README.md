@@ -1,6 +1,7 @@
 ### Hi there 👋, I'm Dmytro
 
-**Java Developer**
+I'm a **Java developer** who builds backend services with Spring and makes sure they're covered by reliable automated tests.
+In my spare time I solve problems on LeetCode and keep my own developer notes.
 
 🌐 **[kovteba.github.io/kovteba](https://kovteba.github.io/kovteba/)** — my site: about me, skills, projects and contacts
 
