@@ -1,0 +1,128 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Dmytro Kovteba — Java Developer</title>
+  <meta name="description" content="Dmytro Kovteba — Java developer. Backend, testing and the projects I build.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="nav">
+    <div class="wrap nav__inner">
+      <a class="nav__logo" href="#top"><span>&lt;</span>kovteba<span>/&gt;</span></a>
+      <nav class="nav__links">
+        <a href="#about">About</a>
+        <a href="#skills">Skills</a>
+        <a href="#projects">Projects</a>
+        <a href="#stats">Stats</a>
+        <a href="#contact">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="top">
+    <!-- Hero -->
+    <section class="hero wrap">
+      <p class="mono hero__hello">Hi there 👋, I'm</p>
+      <h1>Dmytro Kovteba</h1>
+      <p class="hero__role">Java Developer</p>
+      <p class="hero__lead">
+        I build backend applications in Java and Spring, write automated tests,
+        and solve algorithm problems to keep my skills sharp.
+      </p>
+    </section>
+
+    <!-- About -->
+    <section id="about" class="section wrap">
+      <h2><span class="mono">01.</span> About me</h2>
+      <div class="about">
+        <div>
+          <p>
+            I'm a software developer focused on the Java ecosystem. I enjoy designing
+            clean backend services, building REST APIs and making sure they are
+            covered by reliable tests.
+          </p>
+          <p>
+            Outside of work projects I keep a set of personal developer notes,
+            practise on LeetCode and experiment with new libraries and tools.
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Skills -->
+    <section id="skills" class="section wrap">
+      <h2><span class="mono">02.</span> What I work with</h2>
+      <div class="skills">
+        <div class="skill-group">
+          <h3>Languages</h3>
+          <ul class="tags"><li>Java</li><li>SQL</li><li>JavaScript</li><li>HTML / CSS</li></ul>
+        </div>
+        <div class="skill-group">
+          <h3>Frameworks</h3>
+          <ul class="tags"><li>Spring</li><li>Servlets / JSP</li><li>JDBC</li><li>Swagger / OpenAPI</li></ul>
+        </div>
+        <div class="skill-group">
+          <h3>Testing</h3>
+          <ul class="tags"><li>JUnit 5</li><li>Cucumber</li><li>REST Assured</li></ul>
+        </div>
+        <div class="skill-group">
+          <h3>Tools</h3>
+          <ul class="tags"><li>Git</li><li>Maven</li><li>IntelliJ IDEA</li><li>GitHub Pages</li></ul>
+        </div>
+      </div>
+    </section>
+
+    <!-- Projects -->
+    <section id="projects" class="section wrap">
+      <h2><span class="mono">03.</span> My projects</h2>
+      <div class="cards">
+        <article class="card card--featured">
+          <p class="card__tag mono">Mobile app</p>
+          <h4>Debit &amp; Credit</h4>
+          <p>An app for keeping track of debits and credits.</p>
+          <div class="card__links">
+            <span class="muted">Coming soon</span>
+          </div>
+        </article>
+      </div>
+    </section>
+
+    <!-- GitHub stats -->
+    <section id="stats" class="section wrap">
+      <h2><span class="mono">04.</span> GitHub activity</h2>
+      <div class="stats">
+        <img class="stat--wide" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kovteba&amp;theme=github_dark" alt="GitHub profile details" loading="lazy">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kovteba&amp;theme=github_dark" alt="Repositories per language" loading="lazy">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kovteba&amp;theme=github_dark" alt="Most commit language" loading="lazy">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kovteba&amp;theme=github_dark" alt="GitHub stats" loading="lazy">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kovteba&amp;theme=github_dark&amp;utcOffset=8" alt="Productive time" loading="lazy">
+      </div>
+    </section>
+
+    <!-- Contact -->
+    <section id="contact" class="section wrap contact">
+      <h2><span class="mono">05.</span> Get in touch</h2>
+      <p>Want to talk about a project or an opportunity? Find me here:</p>
+      <ul class="contacts">
+        <li><span class="contacts__label mono">Phone</span><a href="tel:+355694213363">+355 69 421 3363</a></li>
+        <li><span class="contacts__label mono">Email</span><a href="mailto:kovteba@gmail.com">kovteba@gmail.com</a></li>
+        <li><span class="contacts__label mono">LinkedIn</span><a href="https://www.linkedin.com/in/dmytro-kovteba" target="_blank" rel="noopener">linkedin.com/in/dmytro-kovteba</a></li>
+        <li><span class="contacts__label mono">Instagram</span><a href="https://www.instagram.com/dmytro.kovteba" target="_blank" rel="noopener">@dmytro.kovteba</a></li>
+        <li><span class="contacts__label mono">GitHub</span><a href="https://github.com/kovteba" target="_blank" rel="noopener">github.com/kovteba</a></li>
+        <li><span class="contacts__label mono">LeetCode</span><a href="https://leetcode.com/kovteba/" target="_blank" rel="noopener">leetcode.com/kovteba</a></li>
+      </ul>
+    </section>
+  </main>
+
+  <footer class="footer wrap">
+    <p>© <span id="year">2026</span> Dmytro Kovteba</p>
+  </footer>
+
+  <script>document.getElementById('year').textContent = new Date().getFullYear();</script>
+</body>
+</html>
