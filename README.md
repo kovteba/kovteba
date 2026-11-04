@@ -12,14 +12,19 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/kovteba/)
 
 <details>
-<summary><b>📊 GitHub &amp; LeetCode stats</b></summary>
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/kovteba)
+<summary><b>📊 GitHub stats</b></summary>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kovteba&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kovteba&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kovteba&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kovteba&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kovteba&theme=github_dark&utcOffset=1)
+
+</details>
+
+<details>
+<summary><b>🧩 LeetCode stats</b></summary>
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/kovteba)
 
 </details>
