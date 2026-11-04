@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Dmytro
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&vCenter=true&width=480&lines=Java+Developer;Backend+%26+Spring;Test+automation;Always+learning)](https://kovteba.github.io/kovteba/)
+**Java Developer**
 
 🌐 **[kovteba.github.io/kovteba](https://kovteba.github.io/kovteba/)** — my site: about me, skills, projects and contacts
 
