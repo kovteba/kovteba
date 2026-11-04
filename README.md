@@ -11,6 +11,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/dmytro.kovteba)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/kovteba/)
 
+<details>
+<summary><b>📊 GitHub &amp; LeetCode stats</b></summary>
+
 ![Leetcode Stats](https://leetcard.jacoblin.cool/kovteba)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kovteba&theme=github_dark)
@@ -18,3 +21,5 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kovteba&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kovteba&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kovteba&theme=github_dark&utcOffset=1)
+
+</details>
