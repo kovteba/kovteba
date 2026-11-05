@@ -117,3 +117,7 @@ a:hover { text-decoration: underline; }
 .contacts li:hover { border-color: var(--accent); }
 .contacts__label { color: var(--accent-2); font-size: 12px; }
 .contacts a { color: var(--text); font-weight: 500; overflow-wrap: anywhere; }
+
+/* Whole card clickable */
+.card { position: relative; }
+.card__stretched::after { content: ""; position: absolute; inset: 0; border-radius: inherit; }
